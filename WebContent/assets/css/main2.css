@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.c2_amarillo { grid-area: c2; Height: 8px; background-color: #e9bc0b;
+}
+.c2_rojo { grid-area: c2; Height: 8px; background-color: #f44336;
+}
+.c2_verdeoscuro{ grid-area: c2; Height: 8px; background-color: #007e33;
+}
+.c2_verde { grid-area: c2; Height: 8px; background-color: #4caf50;
+}
+.c2_naranja{ grid-area: c2; Height: 8px; background-color: #fb8c00;
+}
+.f2_amarillo { grid-area: f2; Height: 8px; background-color: #e9bc0b;
+}
+.f2_rojo { grid-area: f2; Height: 8px; background-color: #f44336;
+}
+.f2_verdeoscuro{ grid-area: f2; Height: 8px; background-color: #007e33;
+}
+.f2_verde { grid-area: f2; Height: 8px; background-color: #4caf50;
+}
+.f2_naranja{ grid-area: f2; Height: 8px; background-color: #fb8c00;
+}
